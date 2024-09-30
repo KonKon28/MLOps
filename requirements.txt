@@ -1,0 +1,4 @@
+Edition	Windows 11 Pro
+Version	23H2
+OS build	22631.4169
+Experience	Windows Feature Experience Pack 1000.22700.1034.0
